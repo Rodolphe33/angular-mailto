@@ -11,6 +11,9 @@ Through bower:
 
 	bower install angular-mailto --save
 
+Through NPM: 
+	
+	npm insall angular-mailto --save
 Usage
 -----
 
