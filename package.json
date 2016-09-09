@@ -1,0 +1,27 @@
+{
+  "name": "angular-mailto",
+  "version": "0.1.0",
+  "description": "Create mailto: strings to use in link href attributes.",
+  "main": "angular-mailto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOSAIKSoftware/angular-mailto.git"
+  },
+  "keywords": [
+    "mail",
+    "angular",
+    "browser"
+  ],
+  "dependencies": {
+		"angular": ">=1.0.0"
+	},
+  "author": "Stefan Henze, UpdateZen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MOSAIKSoftware/angular-mailto/issues"
+  },
+  "homepage": "https://github.com/MOSAIKSoftware/angular-mailto#readme"
+}
