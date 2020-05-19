@@ -13,7 +13,7 @@ Through bower:
 
 Through NPM: 
 	
-	npm insall angular-mailto --save
+	npm install angular-mailto --save
 Usage
 -----
 
